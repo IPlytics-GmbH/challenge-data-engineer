@@ -6,7 +6,8 @@ Our platform lets users search for Patents, Standards and Declarations, amongst 
 
 We want to know how well you can work with the following:
 * Creating a data model out of flat structured csv files
-* Turning data model into SQL creation statements
+* Turning data model into SQL statements
+* Implementing basic application to load data into database
 
 ## What we provide you
 Fork this repo or clone it to your local environment.
@@ -29,7 +30,7 @@ One interesting aspect of industrial or technology standards is how they are com
 
 ## What we want you to do
 
-### Create a model for each of document types
+### Design and present the model graphically
 You can use for this any tool (e.g. draw.io). 
 
 What you should aim for:
@@ -39,8 +40,11 @@ What you should aim for:
 3) As less as possible redundant information
 4) As much interconnected models as possible
 
-### Turn the models into SQL creation statements
-Please transform your designed models in executable SQL creation statements.
+### DDL to create a MySQL database
+Please transform your designed model in executable SQL statements.
+
+### Application for loading data into MySQL database
+Please write an application (preferably in Java) to load the data into the database.
 
 ## How to submit
 Once you're happy with your work and want to submit, `zip` the repo folder and submit it via email to our HR manager. Remember to include the whole assignment directory (including hidden files), so we can see your git commit history.
