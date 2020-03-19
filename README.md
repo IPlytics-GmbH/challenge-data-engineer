@@ -4,7 +4,7 @@ This challenge is for candidates for the position "Data Engineer".
 ## Overview
 Our platform lets users search for Patents, Standards and Declarations, amongst other things. Before data is available on the platform in a clean and structured way it has to go into a defined data model.
 
-We want to know how well you can do with the following:
+We want to know how well you can do the following:
 * Creating a well-structured data model out of some flat CSV files
 * Implementing a simple application to load data into the database structure you have created
 * Performing analysis on the data once it's been loaded
