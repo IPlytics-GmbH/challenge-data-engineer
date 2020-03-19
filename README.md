@@ -46,6 +46,9 @@ Please transform your designed model in executable SQL statements.
 ### Application for loading data into MySQL database
 Please write an application (preferably in Java) to load the data into the database.
 
+### Additional analysis on data
+Now that you have integrated all those data, which indicators would you compute with them or what kind of analysis would you use them for (taking our customer point of view)?
+
 ## How to submit
 Once you're happy with your work and want to submit, `zip` the repo folder and submit it via email to our HR manager. Remember to include the whole assignment directory (including hidden files), so we can see your git commit history.
 
