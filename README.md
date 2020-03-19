@@ -19,10 +19,8 @@ A patent is a form of intellectual property that gives its owner the legal right
 
 A patent is published at some point by a patent office and contains information about the inventor and the applicant (usually a company). Beside that it also has a legal status information (e.g. granted or lapsed). Due to prior art search a patent has to cite other patents which have covered fundamentals for the new invention. Patents usually are published as a group of patents (called a patent family defined by [INPADOC](https://worldwide.espacenet.com/help?locale=en_EP&method=handleHelpTopic&topic=legalstatusqh)) in order to cover multiple patent offices.
 
-### Standards
-Standards are developed with full consensus, that is, they are developed by experts with the aim of arriving at a common standpoint, taking the state of the art into consideration.
-
-A standard is developed and published by a standard-setting organization (SSO) and contains the involved authors. It also targets a main technology generation and refers to standard projects. A standard is frequently revised, therefore there is a version history.
+### Standard
+Standards are requirements, specifications, guidelines or characteristics that can be used consistently to ensure that materials, products, processes and services are fit for their purpose. In the domain of telecommunication, they are often jointly developed by the stakeholders (e.g., Samsung, Apple, Huawei, Ericsson, etc) and state entities. When a consensus is reached, the standard is published by a Standard Setting Organization. The extent of relevance of a standard is often quite narrow, that's why standards often refer to standard projects, which make comprehensive specifications. As needs evolve, a standard is often adjusted and there is a version history to follow those evolutions.
 
 ### Declarations
 Companies or organisations work with a standard-setting organisation (like ISO or ETSI) to "declare" their patent to be a necessary part of a standard. So there is a relational connection between patents and standards, which we can model as a "declaration".
