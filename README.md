@@ -31,7 +31,7 @@ You must solve a few small challenges in order to pass our test. In addition to 
 
 * Present your solution in a clear and readable way, with good documentation
 * Write clean code and don't overcomplicate it
-* Be creative in your analysis!
+* Be creative in your work!
 
 Here are your tasks:
 
@@ -49,9 +49,6 @@ Transform your designed model into executable SQL statements which can create a 
 
 ### 3. Application for loading data into MySQL database
 Write a small application to load data from the provided CSV files into your database. Java or Python are preferred. There is no need to write code from scratch to do simple work. We want to see your use of a framework such as [Spring Batch](https://spring.io/projects/spring-batch) which minimises redundancy.
-
-### 4. Data analysis
-Now that you have loaded all this data, which indicators or metrics could you calculate from it? We would like to see some samples of creative SQL queries or other calculations we could run on the data, to extract interesting data points, or calculate values. 
 
 ## How to submit
 Once you're happy with your work and want to submit, `zip` your work and submit it via email to our HR manager. If you have used git to track your changes, remember to include the whole assignment directory (including hidden files), so we can see your git commit history.
